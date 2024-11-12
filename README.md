@@ -41,9 +41,10 @@ The Pharmacy database is structured around five main entities:
 
 ![image](https://github.com/user-attachments/assets/0e29586d-db75-49f0-a19b-19fe6c730cb4)
 
-![image](https://github.com/user-attachments/assets/1050f2e1-4ce8-4d38-887f-5b62205c9e3b)
+![image](https://github.com/user-attachments/assets/00649372-a4c7-474c-8745-0703f2a10378)
 
-![image](https://github.com/user-attachments/assets/94e298c4-88e1-4199-bd6e-2084b3f84e04)
+
+![image](https://github.com/user-attachments/assets/be52d580-45a0-4d84-b466-61e766e35e62)
 
 
 ## Methodology
